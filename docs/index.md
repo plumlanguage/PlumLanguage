@@ -14,12 +14,12 @@ hero:
       link: /快速开始
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 🚀 高效
+    details: plum使用了许多方法来提升开发效率，比如说「代码生成器」可以减少多次手写大量的样板代码。
+  - title: 🔨 从HTML中构建
+    details: plum代码可以嵌入到HTML文件当中，使用「plum build-html <fileName>」可以构建这个HTML文件。
+  - title: 🔐 从多文件项目构建
+    details: 如果您足够相信plum，不妨将项目中的所有js代码都用plum替换，在项目根目录使用「plum build-pro」可以将当前目录下的包括所有子文件夹下的plum文件构建成js文件，您在其他文件调用js后缀的文件即可。
 ---
 
 
