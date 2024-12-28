@@ -47,5 +47,5 @@ features:
 
 ### 鸣谢
 
-感谢 **FoxScript开发者[FoxObject](https://space.bilibili.com/1775553323)** 给我提的诸多优化方案，是plum得以改进!
+感谢 **FoxScript开发者[FoxObject](https://space.bilibili.com/1775553323)** 给我提的诸多优化方案，使plum得以改进!
 
