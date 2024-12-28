@@ -17,7 +17,7 @@ export default defineConfig({
         text: '快速开始',
         items: [
           { text: 'HelloWorld程序', link: '/快速开始/HelloWorld程序' },
-          //{ text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '变量', link: '/快速开始/变量' }
         ]
       }
     ],
