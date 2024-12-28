@@ -9,7 +9,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '加入交流群', link: '/加入交流群' }
+      { text: '加入交流群', link: '/加入交流群' },
+      {
+        text: '当前发行版本',
+        items: [
+          { text: "Beta_2", link: "https://cloud.wujiyan.cc/f/81matb/Beta_2.rar" },
+          /*{ text: "css", link: "/bigFrontEnd/css/" },
+          { text: "js", link: "/bigFrontEnd/js/" },*/
+        ]
+      }
     ],
 
     sidebar: [
