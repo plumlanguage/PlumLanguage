@@ -22,30 +22,18 @@ features:
     details: 使用「plum build <fileName>」生成的JS可以直接在加入到项目当中，利用plum高效的完成Javascript的编写。
 ---
 
+<Confetti />
 
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+### 🙇‍鸣谢
 
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
-  --vp-home-hero-image-filter: blur(44px);
-}
+- 感谢 **FoxScript开发者[FoxObject](https://space.bilibili.com/1775553323)** 给我提的诸多优化方案，使plum得以改进!
 
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
+- 感谢 **[Kimi](https://kimi.moonshot.cn/)** 为我解决了许多有关网站部署的问题
 
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(68px);
-  }
-}
-</style>
+---
 
-### 鸣谢
+### 🤔plum到底是什么？
 
-感谢 **FoxScript开发者[FoxObject](https://space.bilibili.com/1775553323)** 给我提的诸多优化方案，使plum得以改进!
+plum其实就是一个类似编程语言的代码解析器，只不过有一套专属的语法和特性，可以被当作编程语言； **它提高了开发JavaScritp效率** 。
+
 
