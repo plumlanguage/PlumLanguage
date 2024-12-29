@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Plum Script"
   image:
-    src: /Kinich.png
+    src: /logo.png
     alt: logo
   tagline: 高效、简单和朴实无华😊
   actions:
