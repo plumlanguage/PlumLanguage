@@ -1,11 +1,13 @@
 import { defineConfig } from 'vitepress'
 
+
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/PlumLanguage',
   title: "Plum Script",
   description: "高效、简单和朴实无华😊",
-  themeConfig: {
+  themeConfig: { 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
@@ -25,11 +27,11 @@ export default defineConfig({
         text: '快速开始',
         items: [
           { text: 'HelloWorld程序', link: '/快速开始/HelloWorld程序' },
-          { text: '变量', link: '/快速开始/变量' }
+          { text: '变量', link: '/快速开始/变量' },
+          { text: '函数', link: '/快速开始/函数' }
         ]
-      }
+      },
     ],
-
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
